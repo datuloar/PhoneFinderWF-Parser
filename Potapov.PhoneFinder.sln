@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneFinderWf", "PhoneFinderWf\PhoneFinderWf.csproj", "{FE4B11FB-2B88-441D-BC2F-A0C89B60AE85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneFinderLib", "PhoneFinderLib\PhoneFinderLib.csproj", "{D9BD7672-452C-43BA-9F2C-06747E359555}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE4B11FB-2B88-441D-BC2F-A0C89B60AE85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE4B11FB-2B88-441D-BC2F-A0C89B60AE85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE4B11FB-2B88-441D-BC2F-A0C89B60AE85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE4B11FB-2B88-441D-BC2F-A0C89B60AE85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9BD7672-452C-43BA-9F2C-06747E359555}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9BD7672-452C-43BA-9F2C-06747E359555}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9BD7672-452C-43BA-9F2C-06747E359555}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9BD7672-452C-43BA-9F2C-06747E359555}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A849B1F-5086-47AD-93B6-5EA37EB74C88}
+	EndGlobalSection
+EndGlobal
